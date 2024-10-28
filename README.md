@@ -1,6 +1,11 @@
 # love_calculator
 Love Calculator 💖
-Welcome to the Love Calculator! This fun project lets you discover the "love percentage" between you and your special someone. Just enter your names and see what fate has in store!
+
+Welcome to the Love Calculator! 
+
+This fun project lets you discover the "love percentage" between you and your special someone. 
+
+Just enter your names and see what fate has in store!
 
 
 ![ScreenRecording2024-10-26at10 28 21AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/904e7765-5250-4f66-9d04-b2a3fa78a6fc)
