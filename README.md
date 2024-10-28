@@ -21,6 +21,9 @@ Click the "Calculate" button.
 The Love Calculator will display a love percentage score, ranging from 0% to 100%.
 
 
+
+
+
 Technologies Used
 
 HTML
