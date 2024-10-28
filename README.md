@@ -13,8 +13,11 @@ Just enter your names and see what fate has in store!
 How It Works
 
 Enter your name in the first input box.
+
 Enter your lover's name in the second input box.
+
 Click the "Calculate" button.
+
 The Love Calculator will display a love percentage score, ranging from 0% to 100%.
 
 
